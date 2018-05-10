@@ -1,0 +1,11 @@
+c:\users\devs-vm4\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+c:\users\devs-vm4\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+c:\users\devs-vm4\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+c:\users\devs-vm4\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+c:\users\devs-vm4\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojResolveAssemblyReference.cache
+c:\users\devs-vm4\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+c:\users\devs-vm4\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+c:\users\devs-vm4\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+c:\users\devs-vm4\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+c:\users\devs-vm4\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+c:\users\devs-vm4\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
